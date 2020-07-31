@@ -8,7 +8,7 @@ Filter movies based on similarity between movies from previous list and movies i
 3. **Collaborative filtering:**
 Movies are divided into clusters based on vote count and average votes. Cluster with most average votes is recommended to user.
 
-[PROJECT DEMO](https://drive.google.com/open?id=11dWNb-_jrrfIK-4PYpKLuv4diaB-LkQK)
+[PROJECT DEMO](https://drive.google.com/file/d/1BiajPPiXkJAKvxRbUaElQ2E8wMjwXdAE/view?usp=sharing)
 
 ## Data Description
 
